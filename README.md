@@ -23,7 +23,7 @@ Tag the programming languages the repository uses.
 ## Some notes on style
 
 If nobody understands what you are doing, then your code is pretty much useless.
-### Provide comments and usages examples!
+##### Provide comments and usages examples!
 Also, following google style guides are pretty helpful.
 https://github.com/google/styleguide
 Click the above link for markdown, R, python, java and many more. These are a great starting point.
