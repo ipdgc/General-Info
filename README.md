@@ -4,7 +4,7 @@ General info regarding the IPDGC, its GitHub site plus current and past projects
 
 ## Basic structure of this site
 
-We are generally focused on 1 general types of repositories:
+We are generally focused on 2 general types of repositories:
 1. General use code.
   This could be an example script that accomplishes some basic task like cleaning genome-wide association study (GWAS) data, executing a meta-analysis of summary statistics or calcualting a polygenic risk score (PRS).
    These should focus on general applicability and use in a variety of scenarios.
